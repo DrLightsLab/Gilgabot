@@ -1,0 +1,2 @@
+# Gilgabot
+Discord bot
